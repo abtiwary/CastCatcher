@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+{% for feedk, feedv in feeddict.iteritems() %}
+
+<div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="heading{{ loop.index }}">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ loop.index }}" aria-expanded="false" aria-controls="collapse{{ loop.index }}">
+        {{ feedv['proper_name'] }}</a>
+    </div>
+    <div id="collapse{{ loop.index }}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading{{ loop.index }}">
+        <table width="100%" border="1px solid black">
+            <tr><td width="200"><img width="200" src="{{ feedv['image_link'] }}"></img></td>
+                <td margins="5 5 5 5">
+                {% for k, v in feedv.iteritems() %}
+                    {% for item in feedv['items'] %}
+                        <p><b>{{ item['title'] }}</b> : <a href="{{ item['link'] }}" target="_blank">{{ item['link'] }}</a> : {{ item['date'] }}</p>
+                    {% endfor %}
+                {% endfor %}
+                </td>
+            </tr>
+        </table>
+
+    </div>
+</div>
+
+<br/>
+
+{% endfor %}
+
+</div>
+
+{% endblock %}

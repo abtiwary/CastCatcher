@@ -1,0 +1,174 @@
+{
+    "The Joe Rogan Podcast ": {
+        "feed_image": "http://podcasts.joerogan.net/wp-content/themes/joerogan/images/bg_home.jpg", 
+        "feed_url": "http://podcasts.joerogan.net/feed"
+    }, 
+    "FLOSS Weekly ": {
+        "feed_image": "http://twit.tv/files/imagecache/coverart-feed/coverart/floss1400.jpg", 
+        "feed_url": "http://feeds.twit.tv/floss.xml"
+    }, 
+    "WTF With Marc Maron ": {
+        "feed_image": "http://www.wtfpod.com/wtf-assets/images/wtf_scream.gif", 
+        "feed_url": "http://www.wtfpod.com/podcast/rss"
+    }, 
+    "Slate's Working ": {
+        "feed_image": "http://www.slate.com/content/dam/slate/articles/podcasts/working/2015/05/150515_WORK_PlotzDavidson.jpg.CROP.original-original.jpg", 
+        "feed_url": "http://feeds.feedburner.com/SlatesWorking"
+    }, 
+    "Penn's Sunday School ": {
+        "feed_image": "http://ace.noxsolutions.com/images/podcast/penn_sunday_school.jpg", 
+        "feed_url": "http://feeds.feedburner.com/PennSundaySchool?format=xml"
+    }, 
+    "Partially Derivative ": {
+        "feed_image": "http://static1.squarespace.com/static/546690f9e4b02b939d34b2b1/t/5489f1bee4b0823cd8682244/1431103210313/?format=1500w", 
+        "feed_url": "http://feeds.feedburner.com/PartiallyDerivative?format=xml"
+    }, 
+    "The Godless Spellchecker ": {
+        "feed_image": "http://is1.mzstatic.com/image/pf/us/r30/Podcasts6/v4/d1/61/73/d161737b-e5db-6498-5282-acc25ba628e0/mza_6450323881607983191.600x600-75.jpg", 
+        "feed_url": "http://gspellchecker.libsyn.com/rss"
+    }, 
+    "The Diablo Show ": {
+        "feed_image": "http://33.media.tumblr.com/avatar_80301801b38f_128.png", 
+        "feed_url": "http://feeds.frogpants.com/diabloshow_feed.xml"
+    }, 
+    "Naked Genetics ": {
+        "feed_image": "http://static.podcastcms.de/images/Feed/Channel/110084/1/110084.png", 
+        "feed_url": "http://www.thenakedscientists.com/rss/naked_genetics.xml"
+    }, 
+    "The Instance ": {
+        "feed_image": "http://theinstance.net/wp-content/uploads/2014/09/cropped-gromash-header.jpg", 
+        "feed_url": "http://feeds.frogpants.com/theinstance_feed.xml"
+    }, 
+    "Astronomy Cast ": {
+        "feed_image": "http://www.astronomycast.com/wp-content/uploads/2012/01/actop1.jpeg", 
+        "feed_url": "http://www.astronomycast.com/feed/"
+    }, 
+    "This American Life ": {
+        "feed_image": "http://hw2.thisamericanlife.org/sites/all/themes/thislife/images/logo-v5.png", 
+        "feed_url": "http://feeds.thisamericanlife.org/talpodcast?format=xml"
+    }, 
+    "Linux Voice ": {
+        "feed_image": "http://www.linuxvoice.com/wp-content/uploads/2014/10/LinuxVoice-Logo-for-Website-without-lines2.png", 
+        "feed_url": "http://www.linuxvoice.com/feed/"
+    }, 
+    "The Indoor Kids ": {
+        "feed_image": "http://nerdist.com/wp-content/uploads/2011/10/indoorkids.png", 
+        "feed_url": "http://theindoorkids.libsyn.com/rss"
+    }, 
+    "Star Talk Radio ": {
+        "feed_image": "http://www.startalkradio.net/wp-content/themes/startalk/img/main_logo.png", 
+        "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss"
+    }, 
+    "The Moth ": {
+        "feed_image": "http://cdn.themoth.prx.org/wp-content/uploads/powerpress/moth_podcast_prx_480x480.jpeg", 
+        "feed_url": "http://feeds.themoth.org/themothpodcast?format=xml"
+    }, 
+    "Zero, One, Infinity ": {
+        "feed_image": "http://imglogo.podbean.com/image-logo/732754/LogoJPEG.jpg", 
+        "feed_url": "http://podcast.zerooneinfinity.io/feed/"
+    }, 
+    "Inquiring Minds ": {
+        "feed_image": "http://i1.sndcdn.com/avatars-000143752124-ttsija-original.jpg", 
+        "feed_url": "http://feeds.feedburner.com/inquiring-minds?format=xml"
+    }, 
+    "The Linux Action Show ": {
+        "feed_image": "http://www.jupiterbroadcasting.com/images/LAS-300-Badge.jpg", 
+        "feed_url": "http://feeds2.feedburner.com/TheLinuxActionShow"
+    }, 
+    "Naked Astronomy ": {
+        "feed_image": "http://is1.mzstatic.com/image/pf/us/r30/Podcasts4/v4/0b/08/fc/0b08fc92-1a9d-af23-802f-69a6dc503223/mza_8257467557437639983.600x600-75.jpg", 
+        "feed_url": "http://www.thenakedscientists.com/rss/naked_astronomy_podcast.xml"
+    }, 
+    "Hanselminutes ": {
+        "feed_image": "http://hanselminutes.com/images/photo-scott.jpg", 
+        "feed_url": "http://feeds.podtrac.com/9dPm65vdpLL1"
+    }, 
+    "Kumail Nanjiani's The X Files Podcast ": {
+        "feed_image": "http://is4.mzstatic.com/image/pf/us/r30/Podcasts3/v4/76/d4/36/76d43696-7b00-fba0-6c1c-5095cecd141a/mza_2259719518597289217.600x600-75.jpg", 
+        "feed_url": "http://www.castmate.fm/feed.php?u=thexfilesfiles"
+    }, 
+    "The Skeptic's Guide To The Universe": {
+        "feed_image": "http://www.theskepticsguide.org/wp-content/uploads/2015/02/SGU-Logo-for-homepage_1091.png", 
+        "feed_url": "http://www.theskepticsguide.org/feed/sgu"
+    }, 
+    "The Diablo Podcast ": {
+        "feed_image": "http://diablo.incgamers.com/images/ituneslogo.jpg", 
+        "feed_url": "http://feeds.feedburner.com/TheDiabloPodcast"
+    }, 
+    "Talk Python To Me ": {
+        "feed_image": "http://www.talkpythontome.com/static/img/python-logo-high-res-trans.png", 
+        "feed_url": "http://www.talkpythontome.com/episodes/rss"
+    }, 
+    "Talk Nerdy With Cara Santa Maria ": {
+        "feed_image": "http://static1.squarespace.com/static/517c6938e4b065cfbf60e0f0/t/51888118e4b068b17b926d58/1431939505553/?format=1500w", 
+        "feed_url": "http://carasantamaria.com/podcast/?format=rss"
+    }, 
+    "Brain Science Podcast ": {
+        "feed_image": "http://static1.squarespace.com/static/50f45ccee4b00d6eb48a29de/t/51030ed9e4b0e8a27009f6b7/1359154906817/masthead.jpg", 
+        "feed_url": "http://brainsciencepodcast.libsyn.com/rss"
+    }, 
+    "Better Call Saul ": {
+        "feed_image": "http://is3.mzstatic.com/image/pf/us/r30/Podcasts5/v4/6a/a9/cc/6aa9cc95-a389-f5ad-1ab1-5ac5b8265363/mza_3638591931975247127.600x600-75.jpg", 
+        "feed_url": "http://movietouch.sony.com.edgesuite.net/podcasts/better_call_saul_v1/better_call_saul_insider_podcast.xml"
+    }, 
+    "CppCast": {
+        "feed_image": "http://cppcast.com/images/logo@2x.png", 
+        "feed_url": "https://media.signalleaf.com/CppCast/rss"
+    }, 
+    "Serial ": {
+        "feed_image": "http://hw4.serialpodcast.org/sites/all/themes/podcast/img/logo.png", 
+        "feed_url": "http://feeds.serialpodcast.org/serialpodcast?format=xml"
+    }, 
+    "The Hello World Podcast ": {
+        "feed_image": "http://wildermuth.com/images/hwpod/logo_125.jpg", 
+        "feed_url": "http://hwpod.libsyn.com/rss"
+    }, 
+    "This Week In Tech ": {
+        "feed_image": "http://twit.tv/files/imagecache/coverart-feed/coverart/twit600.jpg", 
+        "feed_url": "http://feeds.twit.tv/twit.xml"
+    }, 
+    "Waking Up With Sam Harris ": {
+        "feed_image": "http://www.samharris.org/images/waking_up_podcast.png", 
+        "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:59753170/sounds.rss"
+    }, 
+    "The Nerdist ": {
+        "feed_image": "http://nerdist.com/wp-content/uploads/2011/10/nerdistpodcastv2.png", 
+        "feed_url": "http://nerdist.libsyn.com/rss"
+    }, 
+    "Rationally Speaking ": {
+        "feed_image": "http://rationallyspeakingpodcast.org/storage/images/banner.png", 
+        "feed_url": "http://nycskeptics.org/storage/feeds/rs.xml"
+    }, 
+    "Science Friday ": {
+        "feed_image": "http://www.sciencefriday.com/images/v1/header-logo-2.png", 
+        "feed_url": "http://www.sciencefriday.com/audio/scifriaudio.xml"
+    }, 
+    "The Naked Scientists ": {
+        "feed_image": "http://upload.wikimedia.org/wikipedia/en/d/dc/The_Naked_Scientists,_logo.png", 
+        "feed_url": "http://www.thenakedscientists.com/naked_scientists_podcast.xml"
+    }, 
+    "The Thinking Atheist ": {
+        "feed_image": "http://cdn.btrcdn.com/pics/hostpics/df124818-fe65-467d-b488-781445c12ed8_tta-blogtalkradio-icon-2014.jpg", 
+        "feed_url": "http://www.blogtalkradio.com/thethinkingatheist/podcast"
+    }, 
+    "The Space Show ": {
+        "feed_image": "http://www.thespaceshow.com/images/david_headshot.gif", 
+        "feed_url": "http://www.gigadial.net/public/station/11253/rss.xml"
+    }, 
+    "The Angry Chicken ": {
+        "feed_image": "http://frogpants.com/wp-content/uploads/2013/10/The-Angry-Chicken-Frogpants-Promo.jpg", 
+        "feed_url": "http://feeds.feedburner.com/theangrychicken?format=xml"
+    }, 
+    "Naked Neuroscience ": {
+        "feed_image": "http://www.neuroscience.cam.ac.uk/Uploads/NakedNeuroscience.png", 
+        "feed_url": "http://www.thenakedscientists.com/rss/naked_neuroscience.xml"
+    }, 
+    "Big Picture Science ": {
+        "feed_image": "http://www.bigpicturescience.org/images/bipisci-logo-100px-l.gif", 
+        "feed_url": "http://arewealone.libsyn.com/rss"
+    }, 
+    "Linux Outlaws ": {
+        "feed_image": "http://sixgun.org/files/logo.png", 
+        "feed_url": "http://sixgun.org/feed"
+    }
+}
