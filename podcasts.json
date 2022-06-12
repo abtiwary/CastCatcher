@@ -1,8 +1,4 @@
 {
-    "The Joe Rogan Podcast ": {
-        "feed_image": "http://podcasts.joerogan.net/wp-content/themes/joerogan/images/bg_home.jpg", 
-        "feed_url": "http://podcasts.joerogan.net/feed"
-    }, 
     "FLOSS Weekly ": {
         "feed_image": "http://twit.tv/files/imagecache/coverart-feed/coverart/floss1400.jpg", 
         "feed_url": "http://feeds.twit.tv/floss.xml"
@@ -22,10 +18,6 @@
     "Partially Derivative ": {
         "feed_image": "http://static1.squarespace.com/static/546690f9e4b02b939d34b2b1/t/5489f1bee4b0823cd8682244/1431103210313/?format=1500w", 
         "feed_url": "http://feeds.feedburner.com/PartiallyDerivative?format=xml"
-    }, 
-    "The Godless Spellchecker ": {
-        "feed_image": "http://is1.mzstatic.com/image/pf/us/r30/Podcasts6/v4/d1/61/73/d161737b-e5db-6498-5282-acc25ba628e0/mza_6450323881607983191.600x600-75.jpg", 
-        "feed_url": "http://gspellchecker.libsyn.com/rss"
     }, 
     "The Diablo Show ": {
         "feed_image": "http://33.media.tumblr.com/avatar_80301801b38f_128.png", 
@@ -126,10 +118,6 @@
     "This Week In Tech ": {
         "feed_image": "http://twit.tv/files/imagecache/coverart-feed/coverart/twit600.jpg", 
         "feed_url": "http://feeds.twit.tv/twit.xml"
-    }, 
-    "Waking Up With Sam Harris ": {
-        "feed_image": "http://www.samharris.org/images/waking_up_podcast.png", 
-        "feed_url": "http://feeds.soundcloud.com/users/soundcloud:users:59753170/sounds.rss"
     }, 
     "The Nerdist ": {
         "feed_image": "http://nerdist.com/wp-content/uploads/2011/10/nerdistpodcastv2.png", 
